@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1547336794 source:c:\users\mimslade\programming\codeblocks\a2\src\shape.cpp
+	"../include/Shape.h"
+
+1547336629 c:\users\mimslade\programming\codeblocks\a2\include\shape.h
+	<string>
+	<iostream>
+	<cmath>
+
+1547412271 source:c:\users\mimslade\programming\codeblocks\a2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<sstream>
+	<string>
+	"include/Shape.h"
+	"include/Point.h"
+	"include/Line.h"
+	"include/Triangle.h"
+	"include/Polygon.h"
+	"include/Figure.h"
+
+1547342577 c:\users\mimslade\programming\codeblocks\a2\include\point.h
+	"Shape.h"
+
+1547342673 c:\users\mimslade\programming\codeblocks\a2\include\line.h
+	"Shape.h"
+
+1547342763 c:\users\mimslade\programming\codeblocks\a2\include\triangle.h
+	"Shape.h"
+
+1547342819 c:\users\mimslade\programming\codeblocks\a2\include\polygon.h
+	"Shape.h"
+
+1547342682 source:c:\users\mimslade\programming\codeblocks\a2\src\line.cpp
+	"../include/Line.h"
+
+1547342620 source:c:\users\mimslade\programming\codeblocks\a2\src\point.cpp
+	"../include/Point.h"
+
+1547342808 source:c:\users\mimslade\programming\codeblocks\a2\src\polygon.cpp
+	"../include/Polygon.h"
+
+1547342723 source:c:\users\mimslade\programming\codeblocks\a2\src\triangle.cpp
+	"../include/Triangle.h"
+
+1547397408 c:\users\mimslade\programming\codeblocks\a2\include\figure.h
+	"Shape.h"
+
+1547397545 source:c:\users\mimslade\programming\codeblocks\a2\src\figure.cpp
+	"../include/Figure.h"
+
